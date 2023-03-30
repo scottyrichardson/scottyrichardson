@@ -13,5 +13,5 @@ I keep my personal repos very minimal. You can find my work in the open source p
 
 | Name | Languages | Description |
 |--------------------------|---|---|
-| [Olyn Framework for Chef](https://github.com/olyn-chef) | Ruby, Bash, Shell | An open source library for Chef that deploys clustered Debian web servers with asynchronously replicated multi-write MySQL databases on Azure, AWS, or GCP. Features include a web server, CI/CD integration, and content caching for easy deployment via infrastructure as code. |
+| [Olyn DevOps Framework for Chef](https://github.com/olyn-chef) | Ruby, Bash, Shell | An open source library for Chef that deploys clustered Debian web servers with asynchronously replicated multi-write MySQL databases on Azure, AWS, or GCP. Features include a web server, CI/CD integration, and content caching for easy deployment via infrastructure as code. |
 | [Grayl PHP Framework](https://github.com/grayl-php) | PHP | An object-oriented open source PHP framework for fully functional eCommerce applications via Paypal or AuthorizeDotNet. Packages include libraries for MailChimp, MaxMind, and ZenDesk. Comes with a custom database PDO layer for building secure SQL queries via prepared statements. |
