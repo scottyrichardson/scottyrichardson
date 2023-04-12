@@ -9,7 +9,7 @@ This year I am working towards my BS in Network Engineering & Security. I am als
 
 I keep my personal repos very minimal. You can find my work in the open source project repos below.
 
-### Open source frameworks I've created
+### Open Source Frameworks I've Created
 
 | Name | Languages | Description |
 |--------------------------|---|---|
