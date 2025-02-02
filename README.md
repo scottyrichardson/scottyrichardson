@@ -1,11 +1,12 @@
+I'm a DevOps Engineer / SRE / Platform Engineer with over 15 years' experience developing applications and managing infrastructure. My unique blend of development and IT operations knowledge allows me to bridge the gap between code and infrastructure. I’ve created two open-source frameworks on GitHub and continue to push myself in new directions with emerging cloud tech and containerization.
 
-I'm a DevOps Engineer with over 15 years' experience developing applications and managing infrastructure. My unique blend of development and IT operations knowledge allows me to bridge the gap between code and infrastructure. I’ve created two open-source frameworks on GitHub and continue to push myself in new directions with emerging cloud tech. Recent accomplishments include:
+Recent accomplishments include:
 
 - Developed an open source DevOps framework to triple database reliability using globally replicated multi-write MySQL nodes.
 - Implemented Docker, Kubernetes, CI/CD, and DevOps best practices to reduce operational costs by over 30%.
 - Installed an Azure API gateway to eliminate DDoS attacks on 3 vulnerable APIs.
 
-This year I am working towards my BS in Network Engineering & Security. I am also studying for additional certifications in AWS, Azure, Docker, and Kubernetes.
+This year I am working towards my BS in Information Technology. I am also studying for additional certifications in AWS and Kubernetes.
 
 I keep my personal repos very minimal. You can find my work in the open source project repos below.
 
